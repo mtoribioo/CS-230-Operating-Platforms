@@ -1,7 +1,5 @@
 # CS-230-Operating-Platforms
 
-# CS 230 Portfolio Reflection
-
 ## Briefly summarize The Gaming Room client and their software requirements.
 
 The client for this project was The Gaming Room, a company that wanted to expand their Android game, *Draw It or Lose It*, into a web-based application that could support multiple operating systems and mobile devices. The application needed to support multiple games, teams, and players while preventing duplicate game names. It also needed to be secure, scalable, and capable of supporting many users at the same time.
